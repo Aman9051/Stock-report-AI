@@ -219,15 +219,6 @@ Tests run against synthetic, seeded price data — no network access or API key 
 
 ---
 
-## 📄 Documentation
-
-- [Literature Review](docs/literature_review.md)
-- [Methodology](docs/methodology.md)
-- [Research Paper](docs/research_paper.md)
-- [Sample Report](sample_output/sample_report_AAPL.md)
-
----
-
 ## ⚠️ Disclaimer
 
 This is a personal project for research and demonstration purposes. Generated reports are not investment advice and should be reviewed by a qualified professional before any decision-making use.
