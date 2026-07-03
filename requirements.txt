@@ -1,0 +1,29 @@
+# Market data
+yfinance>=0.2.40
+
+# Quantitative analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Google Gemini AI — new SDK
+google-genai>=1.0.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# Streamlit web app
+streamlit>=1.35.0
+
+# Interactive charts (Streamlit)
+plotly>=5.20.0
+
+# HTTP requests (stock search autocomplete)
+requests>=2.31.0
+
+# Report rendering
+markdown2>=2.4.13
+xhtml2pdf>=0.2.16
+matplotlib>=3.8.0
+
+# Testing
+pytest>=8.0.0
